@@ -1,7 +1,7 @@
 # AI Agent Development Setup Repository
 
 **Student:** anicetoobina  
-**Cohort:** CETO  
+**Cohort:** BSIT3B  
 **Submission Date:** March 15, 2026
 
 This repository demonstrates a complete development environment setup for AI Agent development, with all Model Context Protocol (MCP) servers properly configured, tested, and documented.
