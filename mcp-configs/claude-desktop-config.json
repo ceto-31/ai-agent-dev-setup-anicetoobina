@@ -13,11 +13,11 @@
     },
     "calendar-booking": {
       "command": "node",
-      "args": ["C:/Users/anice/Documents/ai-agent-dev-setup/local-servers/calendar.js"] 
+      "args": ["C:/Users/anice/Documents/bootcamp/ai-agent-dev-setup-anicetoobina/local-servers/calendar.js"] 
     },
     "bootcamp-ai-agent": {
       "command": "node",
-      "args": ["C:/Users/anice/Documents/ai-agent-dev-setup/local-servers/bootcamp.js"]
+      "args": ["C:/Users/anice/Documents/bootcamp/ai-agent-dev-setup-anicetoobina/local-servers/bootcamp.js"]
     }
   }
 }   
